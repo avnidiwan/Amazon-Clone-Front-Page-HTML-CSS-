@@ -495,7 +495,7 @@ a:hover {
         align-items: center;
     }
 
-    .f3 {
+
         .f3 {
             width: 100%;
         }
@@ -511,7 +511,7 @@ a:hover {
             text-align: center;
         }
 
-    }
+    
 }
     @media only screen and (min-width: 600px) and (max-width: 1000px) {
         * {
@@ -577,7 +577,7 @@ a:hover {
             align-items: center;
         }
 
-        .f3 {
+        
             .f3 {
                 width: 100%;
             }
@@ -593,7 +593,7 @@ a:hover {
                 text-align: center;
             }
 
-        }
+        
     }
 
         @media only screen and (max-width: 450px) {
@@ -659,4 +659,5 @@ a:hover {
                 width: 30%;
                 margin: 10px;
             }
+
         }
